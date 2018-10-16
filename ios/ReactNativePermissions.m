@@ -34,17 +34,11 @@
   #import "RCTEventDispatcher.h"
 #endif
 
-#import "RNPLocation.h"
-#import "RNPBluetooth.h"
 #import "RNPNotification.h"
 #import "RNPAudioVideo.h"
-#import "RNPEvent.h"
 #import "RNPPhoto.h"
-#import "RNPContacts.h"
 #import "RNPBackgroundRefresh.h"
-#import "RNPSpeechRecognition.h"
 #import "RNPMediaLibrary.h"
-#import "RNPMotion.h"
 
 
 @interface ReactNativePermissions()
