@@ -11,7 +11,7 @@
 @implementation RCTConvert (RNPStatus)
 
 RCT_ENUM_CONVERTER(RNPType, (@{ @"camera" : @(RNPTypeCamera),
-                                @"photo" : @(RNPTypePhoto),,
+                                @"photo" : @(RNPTypePhoto),
                                 @"notification" : @(RNPTypeNotification),
                                 @"backgroundRefresh": @(RNPTypeBackgroundRefresh),
                                 @"mediaLibrary": @(RNPTypeMediaLibrary),
